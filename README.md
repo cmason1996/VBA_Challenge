@@ -10,6 +10,8 @@ The original data sets where gathered from 12 different stocks that contained th
 The refactoring began with taking the original code and outlining the sections that needed to be adjusted to make the code become more efficient. Using comments, the sections where outlined and labelled for ease of identification later should the code need to be refactored or adjusted later on to fit rising needs. Below is a snapshot of the main body of code after it had been refactored, with comments:
 ---
 <img width="560" alt="Main_Body" src="https://user-images.githubusercontent.com/112291888/190880696-27dc7905-eea8-4b49-992d-71e93fc6cd7c.png">
+
+---
 # Summary
 At the end of refactoring, the macro ran substantially quicker while maintaining its usability. For future ease of use, a "Run Analysis" button was included in the "All Stocks Analysis" workbook as well as a "Reset/Clear" button to reset the worksheet and clear all of the formatting for the next run of the data.
 ---
